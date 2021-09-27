@@ -1,11 +1,5 @@
-const saveButton = $("#save-btn")
-const taskInputEl =$("#taskInput")
+const saveButton = $("#save-btn");
 
-function saveTask() {
-  var currentVal = taskInputEl.val();
-  var newVal = currentVal + $(this).text();
-  taskInputEl.val(newVal)
-}
 //Get and Display the date at the top of the site
 function getDate() {
     function update() {
@@ -16,4 +10,10 @@ function getDate() {
   }
 getDate();
 
-saveButton.on('click', saveTask());
+//Store the user's input within the container
+function saveTask(input) {
+  window.localStorage.setItem("", input);
+  $("#task").append(input);
+}
+
+saveButton.on('click', saveTask);
