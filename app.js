@@ -10,9 +10,18 @@ function getDate() {
   }
 getDate();
 
+var saveBtnClass = $(".btn btn-primary")
+saveBtnClass.forEach(function(el){
+  el.addEventListener('click', function() {
+    alert(this.id);
+    console.log(el)
+  });
+});
+
+console.log(saveBtnClass)
 //Store the user's input within the container
 function saveTask(input) {
-  window.localStorage.setItem("", input);
+  window.localStorage.setItem("nineAM", JSON.stringify(input));
   $("#task").append(input);
 }
 
