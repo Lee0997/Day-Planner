@@ -19,11 +19,10 @@ Created by myself @Lee0997
 Features
 </summary>
   <ul>
- * Clock  
- * Save  
- * functionality  
- * clear all  
- * task storage
+    <li> Clock </li>
+    <li> Save </li> 
+    <li> Clear all </li>
+    <li> Task storage </li>
   </ul>  
 </details>
   
