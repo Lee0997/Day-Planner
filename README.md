@@ -14,7 +14,7 @@ To use the Day Planner one simply needs to open the page at [here](https://lee09
 
 Created by myself @Lee0997
 
-<details> 
+<list> 
 <summary font-weight="bold" font-size="20px">
 Features
 </summary>
@@ -23,7 +23,7 @@ Features
  * functionality
  * clear all
  * task storage
-</details
+</list>
   
 # Tests
 
