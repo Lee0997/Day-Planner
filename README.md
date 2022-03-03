@@ -16,7 +16,7 @@ To use the Day Planner one simply needs to open the page at [here](https://lee09
 
 <details> 
 <summary>
-# Features
+  <heading> Features </heading>
 </summary>
   <ul>
     <li> Clock </li>
