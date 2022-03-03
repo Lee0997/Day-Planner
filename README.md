@@ -6,7 +6,7 @@ https://lee0997.github.io/Day-Planner/
 
 The day planner is a tool I created in order to help a user manage their day through the use of time slots and text blocks. It uses mostly core javascript and HTML with bootstrap to aid the layout of the page. 
 
-__Here's a little preview of the page!__
+_Here's a little preview of the page!_
 ![image](https://user-images.githubusercontent.com/84280851/156583773-9b8a01c5-02e9-4748-bc0b-936f3cdcd4b1.png)
 
 
