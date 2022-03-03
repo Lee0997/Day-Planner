@@ -13,11 +13,14 @@ To use the Day Planner one simply needs to open the page at [here](https://lee09
 # Credits
 
 Created by myself @Lee0997
-<details> # Features
+
+<details> 
 <summary>
-Clock/ Save functionality/ clear all/ task storage/
+# Features
 </summary>
+  Clock/ Save functionality/ clear all/ task storage/
 </details
+  
 # Tests
 
 I tested the application gradually during the development by using dev tools to check if my local storage and console logs were running correctly as I added code.
