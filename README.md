@@ -18,7 +18,11 @@ Created by myself @Lee0997
 <summary font-weight="bold" font-size="20px">
 Features
 </summary>
-  Clock/ Save functionality/ clear all/ task storage/
+ * Clock
+ * Save 
+ * functionality
+ * clear all
+ * task storage
 </details
   
 # Tests
