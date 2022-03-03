@@ -18,11 +18,13 @@ Created by myself @Lee0997
 <summary font-weight="bold" font-size="20px">
 Features
 </summary>
+  <ul>
  * Clock  
  * Save  
  * functionality  
  * clear all  
- * task storage  
+ * task storage
+  </ul>  
 </details>
   
 # Tests
