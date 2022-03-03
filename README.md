@@ -14,9 +14,9 @@ To use the Day Planner one simply needs to open the page at [here](https://lee09
 
 Created by myself @Lee0997
 
-# Features
-
-Clock, Save functionality, clear all and task storage
+<summary># Features
+Clock/ Save functionality/ clear all/ task storage/
+</summary>
 
 # Tests
 
