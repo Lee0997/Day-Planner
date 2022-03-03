@@ -14,13 +14,9 @@ The day planner is a tool I created in order to help a user manage their day thr
 
 To use the Day Planner one simply needs to open the page at [here](https://lee0997.github.io/Day-Planner/) 
 
-# Credits
-
-Created by myself @Lee0997
-
 <details> 
-<summary font-weight="bold" font-size="20px">
-Features
+<summary>
+#Features
 </summary>
   <ul>
     <li> Clock </li>
@@ -29,6 +25,10 @@ Features
     <li> Task storage </li>
   </ul>  
 </details>
+
+# Credits
+
+Created by myself @Lee0997
   
 # Tests
 
