@@ -8,7 +8,7 @@ The day planner is a tool I created in order to help a user manage their day thr
 
 # Installation
 
-To use the Day Planner one simply needs to open the page at https://lee0997.github.io/Day-Planner/ 
+To use the Day Planner one simply needs to open the page at [here](https://lee0997.github.io/Day-Planner/) 
 
 # Credits
 
